@@ -9,7 +9,7 @@ R-package to perform loop of chi.test on character columns of a dataset
 
 > nlpplot(results,title="NLP plot on models")
 
-abbreviations: NLP : negative log10 of p-values
+abbreviations: NLP : negative log10 of chi.test p-values
 
 ![nlpplot](https://github.com/cdesterke/chi2loop/blob/main/nlpplot.png)
 
