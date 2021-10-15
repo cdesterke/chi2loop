@@ -10,5 +10,8 @@ Script used in the package
 > nlpplot(results,title="NLP plot on models")
 
 
+![iv](https://github.com/cdesterke/chi2loop/blob/master/immunevolcano.png)
+
+
 
 
