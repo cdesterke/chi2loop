@@ -9,6 +9,7 @@ Script used in the package
 
 > nlpplot(results,title="NLP plot on models")
 
+## abbreviations: NLP : negative log10 of p-values
 
 ![nlpplot](https://github.com/cdesterke/chi2loop/blob/main/nlpplot.png)
 
