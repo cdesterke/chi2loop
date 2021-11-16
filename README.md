@@ -17,7 +17,7 @@ abbreviations: NLP : negative log10 of chi.test p-values
 > chinet(results,fold=3)
 ### fold parameter reduce difference of size from the weighted edges
 
-![chinet](https://github.com/cdesterke/chi2loop/blob/main/chinet2.png)
+![chinet2](https://github.com/cdesterke/chi2loop/blob/main/chinet2.png)
 
 
 
