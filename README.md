@@ -22,9 +22,7 @@ fold parameter reduce difference of size from the weighted edges
 
 ### remarks
 
-- cltest works on columns which are defined as.character so it did not work on columns as.factor.
-
-during import of your dataset in R specify the parameter stringsAsFactors=FALSE 
+- cltest works on columns which are defined as.character so this function do not works on columns defined as.factor. During import of your dataset in R specify the parameter "stringsAsFactors=FALSE" 
 
 - after cltest to perform graphics you can filter rows with significant results such as
 
