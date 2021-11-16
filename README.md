@@ -13,6 +13,11 @@ abbreviations: NLP : negative log10 of chi.test p-values
 
 ![nlpplot](https://github.com/cdesterke/chi2loop/blob/main/nlpplot.png)
 
+# network with louvain communities in package version 1.1.2
+> chinet(results,fold=3)
+### fold parameter reduce difference of size from the weighted edges
+
+![chinet](https://github.com/cdesterke/chi2loop/blob/main/chinet.png)
 
 
 
