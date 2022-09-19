@@ -39,5 +39,7 @@ fold parameter reduce difference of size from the weighted edges
 ### references
 
 > chisq.test R function in stats library: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/chisq.test.html; accessed on 2022, september 19th 
+
 > igraph network design: https://igraph.org/; accessed on 2022, september 19th 
+
 > Louvain algorithm for detection of communities : Vincent D Blondel et al J. Stat. Mech. (2008) P10008
