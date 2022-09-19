@@ -36,3 +36,6 @@ fold parameter reduce difference of size from the weighted edges
 
 > results%>%filter(p.value<=0.05)->results
 
+### references
+
+> chisq.test R function in stats library: https://stat.ethz.ch/R-manual/R-devel/library/stats/html/chisq.test.html accessed on 2022, september 19th 
