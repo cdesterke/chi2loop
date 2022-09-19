@@ -5,7 +5,7 @@ chi2loop R-package was designed to perform 2 by 2 loops of chi.square tests betw
 The first step with the "cltest" function is to perform iterative tests between columns to obtained a dataframe of results.
 In second step it is possible to design a NLPplot with the function "nlpplot" on the results data.frame. This nlpplot represent colored bubble with proportional size relative to the negative log10 transformation of the chi.square test p-values. This nlpplot could be done on raw results of chi.square test or after fitration to considerate only significant ones (p-values < 0.05).
 
-In a third step, still on chi.square test results, it is possible to draw a clustering graph based on Louvain algorithm showing the clusters of variable dependencies. The size of the edges between the nodes is proportional to the p-values obtained between the variables so reflecting their association.
+In a third step, still on chi.square test results, with the "chinet" function, it is possible to draw a clustering graph based on Louvain algorithm showing the clusters of variable dependencies. The size of the edges between the nodes is proportional to the p-values obtained between the variables so reflecting their association.
 
 ### Script used in the package
 
